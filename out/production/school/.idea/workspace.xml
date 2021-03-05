@@ -32,7 +32,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../school (2)(1)" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -74,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1614965960032</updated>
       <workItem from="1614965961436" duration="113000" />
-      <workItem from="1614966085283" duration="5653000" />
+      <workItem from="1614966085283" duration="5354000" />
     </task>
     <task id="LOCAL-00001" summary="create service class">
       <created>1614973177074</created>

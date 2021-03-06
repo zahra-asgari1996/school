@@ -24,4 +24,11 @@ public class School {
     public void setDegree(int degree) {
         this.degree = degree;
     }
+
+    @Override
+    public String toString() {
+        return "School{" +
+                "name='" + name + '\'' +
+                '}';
+    }
 }

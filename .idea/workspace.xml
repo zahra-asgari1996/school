@@ -3,7 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="6fd12ea3-6d79-4dac-85db-543fcae08e46" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/school/FullTimeTeacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/school/FullTimeTeacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/school/PartTimeTeacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/school/PartTimeTeacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/school/School.java" beforeDir="false" afterPath="$PROJECT_DIR$/school/School.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/school/Services.java" beforeDir="false" afterPath="$PROJECT_DIR$/school/Services.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/school/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/school/Teacher.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/school/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/school/main/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,13 +52,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -74,7 +80,8 @@
       <option name="presentableId" value="Default" />
       <updated>1614965960032</updated>
       <workItem from="1614965961436" duration="113000" />
-      <workItem from="1614966085283" duration="5653000" />
+      <workItem from="1614966085283" duration="6354000" />
+      <workItem from="1615013594404" duration="8668000" />
     </task>
     <task id="LOCAL-00001" summary="create service class">
       <created>1614973177074</created>
@@ -83,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614973177074</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="create some methods">
+      <created>1614976212738</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1614976212738</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,6 +105,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="create service class" />
-    <option name="LAST_COMMIT_MESSAGE" value="create service class" />
+    <MESSAGE value="create some methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="create some methods" />
   </component>
 </project>

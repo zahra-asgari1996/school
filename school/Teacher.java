@@ -12,7 +12,7 @@ public abstract class Teacher {
     private String lastName;
     private String personalNumber;
     private Degree degree; //مدرک معلم
-    private Set<School> school;
+    private Set<School> school=new HashSet<>();
     private Integer experienceYear;
     private Set<Course> course = new HashSet<>();
     private int age;
@@ -132,5 +132,14 @@ public abstract class Teacher {
     @Override
     public int hashCode() {
         return Objects.hash(name, lastName, personalNumber);
+    }
+
+    @Override
+    public String toString() {
+        return "Teacher{" +
+                "name='" + name + '\'' +
+                ", lastName='" + lastName + '\'' +
+                ", personalNumber='" + personalNumber + '\'' +
+                '}';
     }
 }

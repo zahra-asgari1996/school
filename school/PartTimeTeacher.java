@@ -1,13 +1,17 @@
 package school;
 
+import school.enums.TeacherType;
+
 public class PartTimeTeacher extends Teacher {
     private int hourlySalary;
     private int hourPerMonth;
 
     public PartTimeTeacher(String name, String lastName, String personalCode, int hourPerMonth, int hourlySalary) {
         super(name, lastName, personalCode);
+        super.setType(TeacherType.PART_TIME);
         this.hourlySalary = hourlySalary;
         this.hourPerMonth = hourPerMonth;
+
     }
 
     public int getHourlySalary() {
